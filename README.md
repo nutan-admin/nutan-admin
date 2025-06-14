@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Nutan Adagale
+**Tableau Administrator | Data Analytics Professional**
 
-<!--
-**nutan-admin/nutan-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Tools & Technologies**: Tableau Server, Tableau Online, SQL, Power BI, Excel, Python, Git, Windows/Linux Server
 
-Here are some ideas to get you started:
+📌 **Interests**: Dashboard Governance, User Access Management, Tableau Automation, Data Refresh Scheduling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Projects Included**:
+- Tableau Server Monitoring Dashboards
+- User Access Audit Reports
+- Backup & Restore Automation Scripts
+- Tableau Data Source Refresh Logs
+- Troubleshooting Case Studies
+
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | Email: nc.adagale94@gmail.com
